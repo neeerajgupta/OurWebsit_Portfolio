@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ONE TEAM CARE",
+    "desc": "The central concept of the application is to communicate patients and doctors via One Team Care Portal, application has ability to take care of patients by maintaining patient care plan activities goal. Doctors can communicate to patients by unified communication like video call feeds chats, application stores data in FHIR standard in PostgreSQL database in Json format so it can easily import and export to other organizational database.",
+    "image": "Oneteamcare",
+    "category": "android",
+    "links": {
+      "view": "https://neeerajgupta.github.io/FullStack_student_Records/FullStack_student_Records",
+      "code": "https://neeerajgupta.github.io/FullStack_student_Records/FullStack_student_Records"
+    }
+  },
+  {
+    "name": "Student Record Management",
+    "desc": "Record All Activity On the Site",
+    "image": "student records",
+    "category": "android",
+    "links": {
+      "view": "https://neeerajgupta.github.io/FullStack_student_Records/FullStack_student_Records",
+      "code": "https://neeerajgupta.github.io/FullStack_student_Records/FullStack_student_Records"
+    }
+  }
+  
+]
